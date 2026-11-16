@@ -1,0 +1,6 @@
+SMH
+SOXX
+SPY
+QQQ
+^VIX
+^TNX
