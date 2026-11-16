@@ -1,0 +1,42 @@
+{
+  "run_utc": "2026-11-16T23:29:16+00:00",
+  "sections": {
+    "latest_metrics": {
+      "tickers": 22
+    },
+    "earnings": {
+      "tickers_with_history": 14,
+      "upcoming_events": 15
+    },
+    "fomc": {
+      "tickers": 22,
+      "past_meetings": 39
+    },
+    "screen": {
+      "scored": 145
+    },
+    "holdings_fundamentals": {
+      "tickers": 16
+    },
+    "implied_moves": {
+      "tickers": 3
+    },
+    "regime": {
+      "label": "mixed"
+    },
+    "risk": "skipped (no holdings.csv: portfolio risk is computed privately)",
+    "track_record": {
+      "signals": 0
+    },
+    "forecast_scoring": {
+      "forecasts": 0
+    },
+    "universe_snapshot": "skipped (runs on Friday pre-market runs)",
+    "snapshot": {
+      "file": "2026-11-16_post"
+    }
+  },
+  "failed": [],
+  "ok": 22,
+  "holdings_ok": 16
+}

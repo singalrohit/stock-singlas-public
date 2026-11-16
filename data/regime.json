@@ -1,0 +1,26 @@
+{
+  "SPY": {
+    "above_200d": true,
+    "above_50d": false,
+    "ret_1m": -3.05
+  },
+  "QQQ": {
+    "above_200d": false,
+    "above_50d": false,
+    "ret_1m": -6.77
+  },
+  "SMH": {
+    "above_200d": false,
+    "above_50d": false,
+    "ret_1m": -14.43
+  },
+  "VIX": {
+    "level": 22.9,
+    "pctile_1y": 88.0
+  },
+  "US10Y": {
+    "level": 5.12,
+    "chg_1m_bp": 2.0
+  },
+  "label": "mixed"
+}

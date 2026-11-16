@@ -1,0 +1,26 @@
+{
+  "NVDA": {
+    "earnings_et": "2026-11-17 16:00",
+    "expiry": "2026-11-18",
+    "strike": 155.0,
+    "price": 156.14,
+    "implied_move_pct": 8.36,
+    "atm_iv_pct": 115.7
+  },
+  "KEYS": {
+    "earnings_et": "2026-11-19 16:00",
+    "expiry": "2026-11-20",
+    "strike": 290.0,
+    "price": 285.63,
+    "implied_move_pct": 9.73,
+    "atm_iv_pct": 102.7
+  },
+  "MRVL": {
+    "earnings_et": "2026-12-01 16:00",
+    "expiry": "2026-12-04",
+    "strike": 145.0,
+    "price": 145.36,
+    "implied_move_pct": 17.54,
+    "atm_iv_pct": 96.7
+  }
+}

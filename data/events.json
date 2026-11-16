@@ -1,0 +1,110 @@
+{
+  "generated_utc": "2026-11-16T23:29:16+00:00",
+  "note": "Earnings times come from Yahoo and can shift; confirm on the company IR page. Macro releases (CPI, jobs, PCE) are not listed here: check the BLS/BEA calendars.",
+  "upcoming": [
+    {
+      "ticker": "NVDA",
+      "type": "earnings",
+      "datetime_et": "2026-11-17 16:00",
+      "timing": "AMC",
+      "eps_estimate": 2.47
+    },
+    {
+      "ticker": "KEYS",
+      "type": "earnings",
+      "datetime_et": "2026-11-19 16:00",
+      "timing": "AMC",
+      "eps_estimate": 3.38
+    },
+    {
+      "ticker": "MRVL",
+      "type": "earnings",
+      "datetime_et": "2026-12-01 16:00",
+      "timing": "AMC",
+      "eps_estimate": 1.1
+    },
+    {
+      "ticker": "MACRO",
+      "type": "FOMC decision",
+      "datetime_et": "2026-12-09 14:00",
+      "note": "Statement 14:00 ET, press conference 14:30 ET"
+    },
+    {
+      "ticker": "MU",
+      "type": "earnings",
+      "datetime_et": "2026-12-23 16:00",
+      "timing": "AMC",
+      "eps_estimate": 38.29
+    },
+    {
+      "ticker": "TSM",
+      "type": "earnings",
+      "datetime_et": "2027-01-14 08:00",
+      "timing": "BMO",
+      "eps_estimate": 5.16
+    },
+    {
+      "ticker": "STX",
+      "type": "earnings",
+      "datetime_et": "2027-01-26 16:00",
+      "timing": "AMC",
+      "eps_estimate": 9.27
+    },
+    {
+      "ticker": "SKHY",
+      "type": "earnings",
+      "datetime_et": "2027-01-27 16:00",
+      "timing": "AMC",
+      "eps_estimate": 8.68
+    },
+    {
+      "ticker": "AAPL",
+      "type": "earnings",
+      "datetime_et": "2027-01-28 16:00",
+      "timing": "AMC",
+      "eps_estimate": 2.91
+    },
+    {
+      "ticker": "AMD",
+      "type": "earnings",
+      "datetime_et": "2027-02-02 16:00",
+      "timing": "AMC",
+      "eps_estimate": 2.93
+    },
+    {
+      "ticker": "QCOM",
+      "type": "earnings",
+      "datetime_et": "2027-02-03 16:00",
+      "timing": "AMC",
+      "eps_estimate": 2.26
+    },
+    {
+      "ticker": "SPCX",
+      "type": "earnings",
+      "datetime_et": "2027-02-09 16:00",
+      "timing": "AMC",
+      "eps_estimate": 0.39
+    },
+    {
+      "ticker": "AMAT",
+      "type": "earnings",
+      "datetime_et": "2027-02-11 16:00",
+      "timing": "AMC",
+      "eps_estimate": 4.36
+    },
+    {
+      "ticker": "SNDK",
+      "type": "earnings",
+      "datetime_et": "2027-02-15 16:00",
+      "timing": "AMC",
+      "eps_estimate": 57.12
+    },
+    {
+      "ticker": "S63.SI",
+      "type": "earnings",
+      "datetime_et": "2027-02-26 04:00",
+      "timing": "BMO",
+      "eps_estimate": null
+    }
+  ]
+}
