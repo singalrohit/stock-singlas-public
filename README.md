@@ -12,3 +12,7 @@ Read it from anywhere without credentials:
 Files in `data/`: status.json (run health), latest.json, metrics.json, history/<T>.csv,
 events.json, earnings_reactions.json, fomc_reactions.json, implied_moves.json,
 fundamentals.json, screen.json, regime.json, snapshots/.
+
+Portfolio risk is computed locally, so positions never leave the session:
+
+    python3 tools/risk.py holdings.csv     # columns: ticker,shares,currency
