@@ -7,9 +7,9 @@
     "volume": 45945500,
     "high_52w": 360.83,
     "low_52w": 243.42,
-    "extended_price": 351.0,
-    "extended_time_et": "2026-11-17 09:17",
-    "extended_change_pct": -0.5
+    "extended_price": 351.2,
+    "extended_time_et": "2026-11-17 09:19",
+    "extended_change_pct": -0.45
   },
   "AMAT": {
     "as_of": "2026-11-16",
@@ -31,9 +31,9 @@
     "volume": 35890100,
     "high_52w": 658.52,
     "low_52w": 188.22,
-    "extended_price": 514.9644,
-    "extended_time_et": "2026-11-17 09:18",
-    "extended_change_pct": 2.12
+    "extended_price": 515.27,
+    "extended_time_et": "2026-11-17 09:19",
+    "extended_change_pct": 2.18
   },
   "DRAM": {
     "as_of": "2026-11-16",
@@ -44,7 +44,7 @@
     "high_52w": 81.34,
     "low_52w": 26.14,
     "extended_price": 39.63,
-    "extended_time_et": "2026-11-17 09:17",
+    "extended_time_et": "2026-11-17 09:19",
     "extended_change_pct": 0.92
   },
   "EWY": {
@@ -67,9 +67,9 @@
     "volume": 2208400,
     "high_52w": 389.93,
     "low_52w": 167.23,
-    "extended_price": 290.0,
-    "extended_time_et": "2026-11-17 09:17",
-    "extended_change_pct": 1.53
+    "extended_price": 291.75,
+    "extended_time_et": "2026-11-17 09:19",
+    "extended_change_pct": 2.14
   },
   "MRVL": {
     "as_of": "2026-11-16",
@@ -79,9 +79,9 @@
     "volume": 21368300,
     "high_52w": 329.88,
     "low_52w": 70.69,
-    "extended_price": 152.17,
-    "extended_time_et": "2026-11-17 09:18",
-    "extended_change_pct": 4.68
+    "extended_price": 152.1909,
+    "extended_time_et": "2026-11-17 09:19",
+    "extended_change_pct": 4.7
   },
   "MU": {
     "as_of": "2026-11-16",
@@ -91,9 +91,9 @@
     "volume": 26712100,
     "high_52w": 1255.0,
     "low_52w": 192.59,
-    "extended_price": 730.07,
-    "extended_time_et": "2026-11-17 09:18",
-    "extended_change_pct": 1.54
+    "extended_price": 730.991,
+    "extended_time_et": "2026-11-17 09:19",
+    "extended_change_pct": 1.66
   },
   "NVDA": {
     "as_of": "2026-11-16",
@@ -103,9 +103,9 @@
     "volume": 331405000,
     "high_52w": 243.37,
     "low_52w": 148.8,
-    "extended_price": 157.76,
-    "extended_time_et": "2026-11-17 09:18",
-    "extended_change_pct": 1.04
+    "extended_price": 157.71,
+    "extended_time_et": "2026-11-17 09:19",
+    "extended_change_pct": 1.01
   },
   "QCOM": {
     "as_of": "2026-11-16",
@@ -127,9 +127,9 @@
     "volume": 21049400,
     "high_52w": 199.87,
     "low_52w": 120.54,
-    "extended_price": 124.15,
-    "extended_time_et": "2026-11-17 09:17",
-    "extended_change_pct": 1.61
+    "extended_price": 124.2,
+    "extended_time_et": "2026-11-17 09:19",
+    "extended_change_pct": 1.65
   },
   "SNDK": {
     "as_of": "2026-11-16",
@@ -139,9 +139,9 @@
     "volume": 12292700,
     "high_52w": 2354.3899,
     "low_52w": 183.0,
-    "extended_price": 816.26,
-    "extended_time_et": "2026-11-17 09:18",
-    "extended_change_pct": 0.88
+    "extended_price": 818.86,
+    "extended_time_et": "2026-11-17 09:19",
+    "extended_change_pct": 1.21
   },
   "SPCX": {
     "as_of": "2026-11-16",
@@ -151,9 +151,9 @@
     "volume": 101122200,
     "high_52w": 225.64,
     "low_52w": 104.83,
-    "extended_price": 138.2745,
-    "extended_time_et": "2026-11-17 09:18",
-    "extended_change_pct": 0.67
+    "extended_price": 138.35,
+    "extended_time_et": "2026-11-17 09:19",
+    "extended_change_pct": 0.72
   },
   "STX": {
     "as_of": "2026-11-16",
@@ -175,8 +175,8 @@
     "volume": 19483600,
     "high_52w": 487.47,
     "low_52w": 266.82,
-    "extended_price": 373.94,
-    "extended_time_et": "2026-11-17 09:17",
+    "extended_price": 373.95,
+    "extended_time_et": "2026-11-17 09:19",
     "extended_change_pct": 0.13
   },
   "S63.SI": {
@@ -211,9 +211,9 @@
     "volume": 10005100,
     "high_52w": 671.83,
     "low_52w": 315.05,
-    "extended_price": 468.5,
-    "extended_time_et": "2026-11-17 09:18",
-    "extended_change_pct": 1.43
+    "extended_price": 468.4,
+    "extended_time_et": "2026-11-17 09:19",
+    "extended_change_pct": 1.41
   },
   "SOXX": {
     "as_of": "2026-11-16",
@@ -223,9 +223,9 @@
     "volume": 37024300,
     "high_52w": 218.65,
     "low_52w": 86.8133,
-    "extended_price": 143.8841,
-    "extended_time_et": "2026-11-17 09:17",
-    "extended_change_pct": 1.89
+    "extended_price": 143.82,
+    "extended_time_et": "2026-11-17 09:19",
+    "extended_change_pct": 1.84
   },
   "SPY": {
     "as_of": "2026-11-16",
@@ -235,9 +235,9 @@
     "volume": 69044100,
     "high_52w": 781.62,
     "low_52w": 629.28,
-    "extended_price": 738.96,
-    "extended_time_et": "2026-11-17 09:18",
-    "extended_change_pct": -0.13
+    "extended_price": 739.0801,
+    "extended_time_et": "2026-11-17 09:19",
+    "extended_change_pct": -0.12
   },
   "QQQ": {
     "as_of": "2026-11-16",
@@ -247,20 +247,20 @@
     "volume": 42801200,
     "high_52w": 762.86,
     "low_52w": 555.6,
-    "extended_price": 663.76,
-    "extended_time_et": "2026-11-17 09:17",
-    "extended_change_pct": 0.3
+    "extended_price": 663.98,
+    "extended_time_et": "2026-11-17 09:19",
+    "extended_change_pct": 0.34
   },
   "^VIX": {
     "as_of": "2026-11-17",
-    "close": 22.94,
+    "close": 22.87,
     "prev_close": 22.91,
-    "change_pct": 0.13,
+    "change_pct": -0.17,
     "volume": 0,
     "high_52w": 35.3,
     "low_52w": 13.38,
-    "extended_price": 22.94,
-    "extended_time_et": "2026-11-17 09:03",
+    "extended_price": 22.87,
+    "extended_time_et": "2026-11-17 09:04",
     "extended_change_pct": 0.0
   },
   "^TNX": {
@@ -272,7 +272,7 @@
     "high_52w": 5.364,
     "low_52w": 3.956,
     "extended_price": 5.145,
-    "extended_time_et": "2026-11-17 09:03",
+    "extended_time_et": "2026-11-17 09:04",
     "extended_change_pct": 0.0
   }
 }
