@@ -2,12 +2,17 @@ name: Pull Yahoo Finance data
 
 on:
   schedule:
-    # Pre-market pull ~07:45 New York time (early, so GitHub start delays still finish before the 08:47 ET signals) (two lines cover US daylight saving)
+    # GitHub sometimes delays or drops scheduled runs, so each pull has a backup slot.
+    # Pre-market ~07:45 and backup ~08:10 New York time (two lines each cover US daylight saving)
     - cron: "45 11 * * 1-5"   # 07:45 EDT (summer)
     - cron: "45 12 * * 1-5"   # 07:45 EST (winter) = 20:45 SGT
-    # After-close pull ~16:20 New York time, for earnings-after-the-close alerts
+    - cron: "10 12 * * 1-5"   # 08:10 EDT backup
+    - cron: "10 13 * * 1-5"   # 08:10 EST backup = 21:10 SGT
+    # After-close ~16:20 and backup ~16:55 New York time, for earnings-after-the-close alerts
     - cron: "20 20 * * 1-5"   # 16:20 EDT
     - cron: "20 21 * * 1-5"   # 16:20 EST = 05:20 SGT
+    - cron: "55 20 * * 1-5"   # 16:55 EDT backup
+    - cron: "55 21 * * 1-5"   # 16:55 EST backup = 05:55 SGT
   push:
     branches: [main]
     paths: ["pull.py", "tickers.txt", "benchmarks.txt", "universe.txt", "fomc.txt", "requirements.txt", ".github/workflows/pull.yml"]
