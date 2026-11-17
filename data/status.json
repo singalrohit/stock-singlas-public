@@ -1,5 +1,5 @@
 {
-  "run_utc": "2026-11-17T20:00:02+00:00",
+  "run_utc": "2026-11-17T21:20:10+00:00",
   "sections": {
     "latest_metrics": {
       "tickers": 23
@@ -22,7 +22,7 @@
       "tickers": 3
     },
     "regime": {
-      "label": "risk-off"
+      "label": "mixed"
     },
     "risk": "skipped (no holdings.csv: portfolio risk is computed privately)",
     "track_record": {
