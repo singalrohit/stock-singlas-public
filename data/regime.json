@@ -1,26 +1,26 @@
 {
   "SPY": {
-    "above_200d": true,
+    "above_200d": false,
     "above_50d": false,
-    "ret_1m": -3.05
+    "ret_1m": -4.92
   },
   "QQQ": {
     "above_200d": false,
     "above_50d": false,
-    "ret_1m": -6.77
+    "ret_1m": -9.23
   },
   "SMH": {
     "above_200d": false,
     "above_50d": false,
-    "ret_1m": -14.43
+    "ret_1m": -17.53
   },
   "VIX": {
-    "level": 22.9,
-    "pctile_1y": 88.0
+    "level": 26.2,
+    "pctile_1y": 96.0
   },
   "US10Y": {
-    "level": 5.14,
-    "chg_1m_bp": 1.0
+    "level": 5.1,
+    "chg_1m_bp": -4.0
   },
-  "label": "mixed"
+  "label": "risk-off"
 }

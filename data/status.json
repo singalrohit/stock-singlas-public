@@ -1,5 +1,5 @@
 {
-  "run_utc": "2026-11-17T14:19:45+00:00",
+  "run_utc": "2026-11-17T20:00:02+00:00",
   "sections": {
     "latest_metrics": {
       "tickers": 23
@@ -22,7 +22,7 @@
       "tickers": 3
     },
     "regime": {
-      "label": "mixed"
+      "label": "risk-off"
     },
     "risk": "skipped (no holdings.csv: portfolio risk is computed privately)",
     "track_record": {
@@ -33,7 +33,7 @@
     },
     "universe_snapshot": "skipped (runs on Friday pre-market runs)",
     "snapshot": {
-      "file": "2026-11-17_pre"
+      "file": "2026-11-17_post"
     }
   },
   "failed": [],
