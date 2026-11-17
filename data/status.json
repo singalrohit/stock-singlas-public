@@ -1,22 +1,22 @@
 {
-  "run_utc": "2026-11-16T23:29:16+00:00",
+  "run_utc": "2026-11-17T14:18:04+00:00",
   "sections": {
     "latest_metrics": {
-      "tickers": 22
+      "tickers": 23
     },
     "earnings": {
-      "tickers_with_history": 14,
-      "upcoming_events": 15
+      "tickers_with_history": 15,
+      "upcoming_events": 16
     },
     "fomc": {
-      "tickers": 22,
+      "tickers": 23,
       "past_meetings": 39
     },
     "screen": {
-      "scored": 145
+      "scored": 144
     },
     "holdings_fundamentals": {
-      "tickers": 16
+      "tickers": 17
     },
     "implied_moves": {
       "tickers": 3
@@ -33,10 +33,10 @@
     },
     "universe_snapshot": "skipped (runs on Friday pre-market runs)",
     "snapshot": {
-      "file": "2026-11-16_post"
+      "file": "2026-11-17_pre"
     }
   },
   "failed": [],
-  "ok": 22,
-  "holdings_ok": 16
+  "ok": 23,
+  "holdings_ok": 17
 }

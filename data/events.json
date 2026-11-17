@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-11-16T23:29:16+00:00",
+  "generated_utc": "2026-11-17T14:18:04+00:00",
   "note": "Earnings times come from Yahoo and can shift; confirm on the company IR page. Macro releases (CPI, jobs, PCE) are not listed here: check the BLS/BEA calendars.",
   "upcoming": [
     {
@@ -51,6 +51,13 @@
       "eps_estimate": 9.27
     },
     {
+      "ticker": "V",
+      "type": "earnings",
+      "datetime_et": "2027-01-26 16:00",
+      "timing": "AMC",
+      "eps_estimate": 3.63
+    },
+    {
       "ticker": "SKHY",
       "type": "earnings",
       "datetime_et": "2027-01-27 16:00",
@@ -90,7 +97,7 @@
       "type": "earnings",
       "datetime_et": "2027-02-11 16:00",
       "timing": "AMC",
-      "eps_estimate": 4.36
+      "eps_estimate": 4.37
     },
     {
       "ticker": "SNDK",
