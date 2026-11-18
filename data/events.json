@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-11-18T03:16:29+00:00",
+  "generated_utc": "2026-11-18T19:34:52+00:00",
   "note": "Earnings times come from Yahoo and can shift; confirm on the company IR page. Macro releases (CPI, jobs, PCE) are not listed here: check the BLS/BEA calendars.",
   "upcoming": [
     {
@@ -76,7 +76,7 @@
       "type": "earnings",
       "datetime_et": "2027-02-03 16:00",
       "timing": "AMC",
-      "eps_estimate": 2.26
+      "eps_estimate": 2.25
     },
     {
       "ticker": "SPCX",
@@ -98,6 +98,13 @@
       "datetime_et": "2027-02-15 16:00",
       "timing": "AMC",
       "eps_estimate": 57.12
+    },
+    {
+      "ticker": "NVDA",
+      "type": "earnings",
+      "datetime_et": "2027-02-24 16:00",
+      "timing": "AMC",
+      "eps_estimate": 2.85
     },
     {
       "ticker": "S63.SI",

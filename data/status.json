@@ -1,12 +1,12 @@
 {
-  "run_utc": "2026-11-18T03:16:29+00:00",
+  "run_utc": "2026-11-18T19:34:52+00:00",
   "sections": {
     "latest_metrics": {
       "tickers": 23
     },
     "earnings": {
       "tickers_with_history": 15,
-      "upcoming_events": 15
+      "upcoming_events": 16
     },
     "fomc": {
       "tickers": 23,
@@ -22,7 +22,7 @@
       "tickers": 2
     },
     "regime": {
-      "label": "mixed"
+      "label": "risk-off"
     },
     "risk": "skipped (no holdings.csv: portfolio risk is computed privately)",
     "track_record": {
@@ -33,7 +33,7 @@
     },
     "universe_snapshot": "skipped (runs on Friday pre-market runs)",
     "snapshot": {
-      "file": "2026-11-17_post"
+      "file": "2026-11-18_post"
     }
   },
   "failed": [],
