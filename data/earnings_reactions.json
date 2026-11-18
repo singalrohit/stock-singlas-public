@@ -1791,7 +1791,7 @@
       "beat_rate_pct": 100.0,
       "up_d1_after_beat_pct": 50.0,
       "fade_rate_pct": 100.0,
-      "avg_d20_after_up_d1_pct": null,
+      "avg_d20_after_up_d1_pct": -4.12,
       "avg_d20_after_down_d1_pct": 13.48
     },
     "events": [
@@ -1816,7 +1816,7 @@
         "gap_pct": 8.64,
         "d1_pct": 7.79,
         "d5_pct": 0.53,
-        "d20_pct": null,
+        "d20_pct": -4.12,
         "smh_d1_pct": 1.89
       }
     ]
