@@ -1,14 +1,7 @@
 {
-  "generated_utc": "2026-11-17T21:20:10+00:00",
+  "generated_utc": "2026-11-18T02:26:48+00:00",
   "note": "Earnings times come from Yahoo and can shift; confirm on the company IR page. Macro releases (CPI, jobs, PCE) are not listed here: check the BLS/BEA calendars.",
   "upcoming": [
-    {
-      "ticker": "NVDA",
-      "type": "earnings",
-      "datetime_et": "2026-11-17 16:00",
-      "timing": "AMC",
-      "eps_estimate": 2.47
-    },
     {
       "ticker": "KEYS",
       "type": "earnings",

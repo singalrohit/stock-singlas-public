@@ -2,20 +2,20 @@
   "SPY": {
     "above_200d": true,
     "above_50d": false,
-    "ret_1m": -4.44
+    "ret_1m": -3.05
   },
   "QQQ": {
     "above_200d": false,
     "above_50d": false,
-    "ret_1m": -8.55
+    "ret_1m": -6.77
   },
   "SMH": {
     "above_200d": false,
     "above_50d": false,
-    "ret_1m": -16.11
+    "ret_1m": -14.43
   },
   "VIX": {
-    "level": 25.4,
+    "level": 25.5,
     "pctile_1y": 94.0
   },
   "US10Y": {
