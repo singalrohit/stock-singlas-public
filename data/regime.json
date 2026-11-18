@@ -2,24 +2,24 @@
   "SPY": {
     "above_200d": false,
     "above_50d": false,
-    "ret_1m": -5.02
+    "ret_1m": -5.07
   },
   "QQQ": {
     "above_200d": false,
     "above_50d": false,
-    "ret_1m": -8.19
+    "ret_1m": -8.35
   },
   "SMH": {
     "above_200d": false,
     "above_50d": false,
-    "ret_1m": -16.33
+    "ret_1m": -16.49
   },
   "VIX": {
-    "level": 24.3,
+    "level": 24.5,
     "pctile_1y": 92.0
   },
   "US10Y": {
-    "level": 5.06,
+    "level": 5.07,
     "chg_1m_bp": -5.0
   },
   "label": "risk-off"
