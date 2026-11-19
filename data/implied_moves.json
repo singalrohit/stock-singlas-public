@@ -2,17 +2,17 @@
   "KEYS": {
     "earnings_et": "2026-11-19 16:00",
     "expiry": "2026-11-20",
-    "strike": 290.0,
-    "price": 285.91,
-    "implied_move_pct": 8.62,
-    "atm_iv_pct": 143.7
+    "strike": 280.0,
+    "price": 283.225,
+    "implied_move_pct": 8.53,
+    "atm_iv_pct": 144.7
   },
   "MRVL": {
     "earnings_et": "2026-12-01 16:00",
     "expiry": "2026-12-04",
     "strike": 140.0,
-    "price": 142.05,
-    "implied_move_pct": 17.09,
-    "atm_iv_pct": 103.0
+    "price": 140.48,
+    "implied_move_pct": 16.98,
+    "atm_iv_pct": 102.1
   }
 }
