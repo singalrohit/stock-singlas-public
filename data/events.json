@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-11-19T02:54:12+00:00",
+  "generated_utc": "2026-11-19T19:38:10+00:00",
   "note": "Earnings times come from Yahoo and can shift; confirm on the company IR page. Macro releases (CPI, jobs, PCE) are not listed here: check the BLS/BEA calendars.",
   "upcoming": [
     {
@@ -104,7 +104,7 @@
       "type": "earnings",
       "datetime_et": "2027-02-24 16:00",
       "timing": "AMC",
-      "eps_estimate": 2.85
+      "eps_estimate": 2.88
     },
     {
       "ticker": "S63.SI",

@@ -1,5 +1,5 @@
 {
-  "run_utc": "2026-11-19T02:54:12+00:00",
+  "run_utc": "2026-11-19T19:38:10+00:00",
   "sections": {
     "latest_metrics": {
       "tickers": 23
@@ -9,7 +9,7 @@
       "upcoming_events": 16
     },
     "fomc": {
-      "tickers": 23,
+      "tickers": 22,
       "past_meetings": 39
     },
     "screen": {
@@ -33,7 +33,7 @@
     },
     "universe_snapshot": "skipped (runs on Friday pre-market runs)",
     "snapshot": {
-      "file": "2026-11-18_post"
+      "file": "2026-11-19_post"
     }
   },
   "failed": [],
