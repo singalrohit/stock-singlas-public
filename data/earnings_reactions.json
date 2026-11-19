@@ -1237,28 +1237,16 @@
   },
   "NVDA": {
     "summary": {
-      "n": 19,
-      "avg_abs_d1_pct": 6.5,
-      "pct_up_d1": 53.0,
-      "beat_rate_pct": 89.0,
-      "up_d1_after_beat_pct": 53.0,
+      "n": 20,
+      "avg_abs_d1_pct": 6.31,
+      "pct_up_d1": 50.0,
+      "beat_rate_pct": 90.0,
+      "up_d1_after_beat_pct": 50.0,
       "fade_rate_pct": 21.0,
       "avg_d20_after_up_d1_pct": 10.56,
       "avg_d20_after_down_d1_pct": -4.6
     },
     "events": [
-      {
-        "date": "2022-11-16",
-        "timing": "AMC",
-        "eps_est": 0.07,
-        "eps_actual": 0.06,
-        "surprise_pct": -17.32,
-        "gap_pct": -1.23,
-        "d1_pct": -1.46,
-        "d5_pct": 3.83,
-        "d20_pct": 6.55,
-        "smh_d1_pct": 0.75
-      },
       {
         "date": "2023-02-22",
         "timing": "AMC",
@@ -1438,6 +1426,18 @@
         "d5_pct": 7.04,
         "d20_pct": 7.12,
         "smh_d1_pct": 3.1
+      },
+      {
+        "date": "2026-11-17",
+        "timing": "AMC",
+        "eps_est": 2.47,
+        "eps_actual": 2.68,
+        "surprise_pct": 8.36,
+        "gap_pct": 2.4,
+        "d1_pct": -2.89,
+        "d5_pct": null,
+        "d20_pct": null,
+        "smh_d1_pct": -0.12
       }
     ]
   },
