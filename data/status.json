@@ -1,5 +1,5 @@
 {
-  "run_utc": "2026-11-20T02:23:42+00:00",
+  "run_utc": "2026-11-20T02:46:45+00:00",
   "sections": {
     "latest_metrics": {
       "tickers": 23
@@ -9,7 +9,7 @@
       "upcoming_events": 15
     },
     "fomc": {
-      "tickers": 22,
+      "tickers": 23,
       "past_meetings": 39
     },
     "screen": {

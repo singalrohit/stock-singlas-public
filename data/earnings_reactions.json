@@ -1687,16 +1687,101 @@
   },
   "SNDK": {
     "summary": {
-      "n": 0,
-      "avg_abs_d1_pct": null,
-      "pct_up_d1": null,
-      "beat_rate_pct": null,
-      "up_d1_after_beat_pct": null,
-      "fade_rate_pct": null,
-      "avg_d20_after_up_d1_pct": null,
-      "avg_d20_after_down_d1_pct": null
+      "n": 7,
+      "avg_abs_d1_pct": 8.59,
+      "pct_up_d1": 57.0,
+      "beat_rate_pct": 100.0,
+      "up_d1_after_beat_pct": 57.0,
+      "fade_rate_pct": 33.0,
+      "avg_d20_after_up_d1_pct": 23.57,
+      "avg_d20_after_down_d1_pct": 49.77
     },
-    "events": []
+    "events": [
+      {
+        "date": "2025-05-07",
+        "timing": "AMC",
+        "eps_est": -0.39,
+        "eps_actual": -0.3,
+        "surprise_pct": 22.38,
+        "gap_pct": 0.0,
+        "d1_pct": 4.83,
+        "d5_pct": 19.9,
+        "d20_pct": 11.87,
+        "smh_d1_pct": 0.88
+      },
+      {
+        "date": "2025-08-14",
+        "timing": "AMC",
+        "eps_est": 0.03,
+        "eps_actual": 0.29,
+        "surprise_pct": 771.13,
+        "gap_pct": -7.75,
+        "d1_pct": -4.58,
+        "d5_pct": -2.53,
+        "d20_pct": 84.51,
+        "smh_d1_pct": -2.08
+      },
+      {
+        "date": "2025-11-06",
+        "timing": "AMC",
+        "eps_est": 0.89,
+        "eps_actual": 1.22,
+        "surprise_pct": 36.89,
+        "gap_pct": 0.35,
+        "d1_pct": 15.31,
+        "d5_pct": 17.28,
+        "d20_pct": 10.01,
+        "smh_d1_pct": -0.85
+      },
+      {
+        "date": "2026-01-29",
+        "timing": "AMC",
+        "eps_est": 3.54,
+        "eps_actual": 6.2,
+        "surprise_pct": 74.97,
+        "gap_pct": 20.75,
+        "d1_pct": 6.85,
+        "d5_pct": 6.84,
+        "d20_pct": 17.81,
+        "smh_d1_pct": -3.37
+      },
+      {
+        "date": "2026-04-30",
+        "timing": "AMC",
+        "eps_est": 14.66,
+        "eps_actual": 23.41,
+        "surprise_pct": 59.67,
+        "gap_pct": -3.42,
+        "d1_pct": 8.25,
+        "d5_pct": 22.2,
+        "d20_pct": 54.58,
+        "smh_d1_pct": 0.61
+      },
+      {
+        "date": "2026-08-05",
+        "timing": "AMC",
+        "eps_est": 34.52,
+        "eps_actual": 39.25,
+        "surprise_pct": 13.72,
+        "gap_pct": -13.12,
+        "d1_pct": -6.81,
+        "d5_pct": -0.46,
+        "d20_pct": 15.02,
+        "smh_d1_pct": 0.31
+      },
+      {
+        "date": "2026-10-29",
+        "timing": "AMC",
+        "eps_est": 46.41,
+        "eps_actual": 49.51,
+        "surprise_pct": 6.69,
+        "gap_pct": -8.64,
+        "d1_pct": -13.47,
+        "d5_pct": -39.37,
+        "d20_pct": null,
+        "smh_d1_pct": -6.98
+      }
+    ]
   },
   "SPCX": {
     "summary": {

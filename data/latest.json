@@ -132,16 +132,16 @@
     "extended_change_pct": -3.43
   },
   "SNDK": {
-    "as_of": "2026-11-18",
-    "close": 776.22,
-    "prev_close": 797.24,
-    "change_pct": -2.64,
-    "volume": 12602833,
-    "high_52w": 821.46,
-    "low_52w": 749.39,
+    "as_of": "2026-11-19",
+    "close": 94.395,
+    "prev_close": 97.0275,
+    "change_pct": -2.71,
+    "volume": 119852712,
+    "high_52w": 294.2987,
+    "low_52w": 22.875,
     "extended_price": 736.8,
     "extended_time_et": "2026-11-19 19:59",
-    "extended_change_pct": -5.08
+    "extended_change_pct": 680.55
   },
   "SPCX": {
     "as_of": "2026-11-18",
@@ -181,14 +181,14 @@
   },
   "S63.SI": {
     "as_of": "2026-11-20",
-    "close": 8.64,
+    "close": 8.6,
     "prev_close": 8.78,
-    "change_pct": -1.59,
-    "volume": 1250400,
+    "change_pct": -2.05,
+    "volume": 1570100,
     "high_52w": 11.63,
     "low_52w": 8.07,
-    "extended_price": 8.64,
-    "extended_time_et": "2026-11-19 21:13",
+    "extended_price": 8.6,
+    "extended_time_et": "2026-11-19 21:35",
     "extended_change_pct": 0.0
   },
   "V": {
