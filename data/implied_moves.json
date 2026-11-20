@@ -3,8 +3,8 @@
     "earnings_et": "2026-12-01 16:00",
     "expiry": "2026-12-04",
     "strike": 120.0,
-    "price": 122.42,
-    "implied_move_pct": 19.77,
-    "atm_iv_pct": 123.8
+    "price": 122.25,
+    "implied_move_pct": 19.55,
+    "atm_iv_pct": 122.0
   }
 }
