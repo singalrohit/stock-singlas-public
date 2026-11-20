@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-11-20T01:47:17+00:00",
+  "generated_utc": "2026-11-20T01:55:06+00:00",
   "universe_size": 144,
   "scored": 144,
   "method": "Two stages. momentum_score 0-100: 30% 12-1 momentum, 20% 6m return, 15% 3m relative strength vs SPY, 20% trend, 15% closeness to 52w high. The 40 best are enriched with fundamentals; composite_score = 40% momentum + 30% quality (margins, ROE, FCF, leverage, growth, revisions) + 20% EPS revisions (next FY, 30d) + 10% valuation (forward P/E). passes_quality_bar = quality>=70, FCF>0, revisions not falling, trend intact, market cap >= 10bn. Still verify news and earnings before any buy.",
@@ -476,7 +476,7 @@
       "rsi14": 48.8,
       "vol20_ann_pct": 102.4,
       "rel_3m_vs_spy": 3.73,
-      "momentum_score": 73.7,
+      "momentum_score": 73.8,
       "flags": "far from high, high vol",
       "name": "Entegris, Inc.",
       "sector": "Technology",
@@ -506,7 +506,7 @@
       "fy0_down_30d": 0,
       "quality_score": 86.0,
       "quality_inputs": 7,
-      "composite_score": 83.4,
+      "composite_score": 83.5,
       "passes_quality_bar": true,
       "next_earnings_et": "2027-02-04 08:00"
     },
