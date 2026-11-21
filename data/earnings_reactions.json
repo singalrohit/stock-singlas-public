@@ -619,16 +619,28 @@
   },
   "KEYS": {
     "summary": {
-      "n": 21,
+      "n": 20,
       "avg_abs_d1_pct": 6.98,
-      "pct_up_d1": 38.0,
+      "pct_up_d1": 40.0,
       "beat_rate_pct": 100.0,
-      "up_d1_after_beat_pct": 38.0,
+      "up_d1_after_beat_pct": 40.0,
       "fade_rate_pct": 20.0,
       "avg_d20_after_up_d1_pct": 8.09,
       "avg_d20_after_down_d1_pct": -3.06
     },
     "events": [
+      {
+        "date": "2022-11-17",
+        "timing": "AMC",
+        "eps_est": 1.99,
+        "eps_actual": 2.14,
+        "surprise_pct": 7.5,
+        "gap_pct": 3.6,
+        "d1_pct": 3.54,
+        "d5_pct": 6.38,
+        "d20_pct": 4.71,
+        "smh_d1_pct": 0.18
+      },
       {
         "date": "2023-02-21",
         "timing": "AMC",
@@ -808,18 +820,6 @@
         "d5_pct": -6.12,
         "d20_pct": -5.56,
         "smh_d1_pct": -1.55
-      },
-      {
-        "date": "2026-11-19",
-        "timing": "AMC",
-        "eps_est": 3.38,
-        "eps_actual": 3.61,
-        "surprise_pct": 6.79,
-        "gap_pct": 0.16,
-        "d1_pct": -7.01,
-        "d5_pct": null,
-        "d20_pct": null,
-        "smh_d1_pct": -10.72
       }
     ]
   },

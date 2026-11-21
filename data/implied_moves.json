@@ -2,9 +2,9 @@
   "MRVL": {
     "earnings_et": "2026-12-01 16:00",
     "expiry": "2026-12-04",
-    "strike": 120.0,
-    "price": 122.25,
-    "implied_move_pct": 19.55,
-    "atm_iv_pct": 122.0
+    "strike": 138.0,
+    "price": 138.47,
+    "implied_move_pct": 19.75,
+    "atm_iv_pct": 119.2
   }
 }
