@@ -4,7 +4,7 @@
     "expiry": "2026-12-04",
     "strike": 145.0,
     "price": 144.74,
-    "implied_move_pct": 15.89,
-    "atm_iv_pct": 114.8
+    "implied_move_pct": 15.93,
+    "atm_iv_pct": 0.2
   }
 }
