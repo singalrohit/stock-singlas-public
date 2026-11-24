@@ -1435,7 +1435,7 @@
         "surprise_pct": 8.36,
         "gap_pct": 2.4,
         "d1_pct": -2.89,
-        "d5_pct": null,
+        "d5_pct": -0.05,
         "d20_pct": null,
         "smh_d1_pct": -0.12
       }
@@ -1655,7 +1655,7 @@
       "beat_rate_pct": 50.0,
       "up_d1_after_beat_pct": 0.0,
       "fade_rate_pct": 100.0,
-      "avg_d20_after_up_d1_pct": null,
+      "avg_d20_after_up_d1_pct": -22.96,
       "avg_d20_after_down_d1_pct": 22.56
     },
     "events": [
@@ -1680,7 +1680,7 @@
         "gap_pct": 8.53,
         "d1_pct": 13.3,
         "d5_pct": 3.74,
-        "d20_pct": null,
+        "d20_pct": -22.96,
         "smh_d1_pct": 1.74
       }
     ]
@@ -1828,8 +1828,8 @@
       "pct_up_d1": 70.0,
       "beat_rate_pct": 80.0,
       "up_d1_after_beat_pct": 81.0,
-      "fade_rate_pct": 21.0,
-      "avg_d20_after_up_d1_pct": 13.18,
+      "fade_rate_pct": 25.0,
+      "avg_d20_after_up_d1_pct": 10.26,
       "avg_d20_after_down_d1_pct": -0.45
     },
     "events": [
@@ -2022,7 +2022,7 @@
         "gap_pct": -3.15,
         "d1_pct": 4.51,
         "d5_pct": -9.2,
-        "d20_pct": null,
+        "d20_pct": -27.76,
         "smh_d1_pct": 1.74
       }
     ]
@@ -2266,9 +2266,9 @@
       "pct_up_d1": 50.0,
       "beat_rate_pct": 100.0,
       "up_d1_after_beat_pct": 50.0,
-      "fade_rate_pct": 26.0,
+      "fade_rate_pct": 30.0,
       "avg_d20_after_up_d1_pct": 4.79,
-      "avg_d20_after_down_d1_pct": -0.02
+      "avg_d20_after_down_d1_pct": 0.35
     },
     "events": [
       {
@@ -2460,7 +2460,7 @@
         "gap_pct": -1.64,
         "d1_pct": -0.31,
         "d5_pct": 4.62,
-        "d20_pct": null,
+        "d20_pct": 3.71,
         "smh_d1_pct": 1.74
       }
     ]
