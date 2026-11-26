@@ -1,5 +1,5 @@
 {
-  "run_utc": "2026-11-26T03:52:29+00:00",
+  "run_utc": "2026-11-26T20:32:02+00:00",
   "sections": {
     "latest_metrics": {
       "tickers": 23
@@ -33,7 +33,7 @@
     },
     "universe_snapshot": "skipped (runs on Friday pre-market runs)",
     "snapshot": {
-      "file": "2026-11-25_post"
+      "file": "2026-11-26_post"
     }
   },
   "failed": [],
