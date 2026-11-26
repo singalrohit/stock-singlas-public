@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-11-26T21:55:20+00:00",
+  "generated_utc": "2026-11-26T22:16:09+00:00",
   "universe_size": 144,
   "scored": 144,
   "method": "Two stages. momentum_score 0-100: 30% 12-1 momentum, 20% 6m return, 15% 3m relative strength vs SPY, 20% trend, 15% closeness to 52w high. The 40 best are enriched with fundamentals; composite_score = 40% momentum + 30% quality (margins, ROE, FCF, leverage, growth, revisions) + 20% EPS revisions (next FY, 30d) + 10% valuation (forward P/E). passes_quality_bar = quality>=70, FCF>0, revisions not falling, trend intact, market cap >= 10bn. Still verify news and earnings before any buy.",
