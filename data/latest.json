@@ -181,14 +181,14 @@
   },
   "S63.SI": {
     "as_of": "2026-11-27",
-    "close": 8.65,
+    "close": 8.67,
     "prev_close": 8.62,
-    "change_pct": 0.35,
-    "volume": 864300,
+    "change_pct": 0.58,
+    "volume": 907600,
     "high_52w": 11.63,
     "low_52w": 8.07,
-    "extended_price": 8.65,
-    "extended_time_et": "2026-11-26 22:30",
+    "extended_price": 8.67,
+    "extended_time_et": "2026-11-26 22:43",
     "extended_change_pct": 0.0
   },
   "V": {
