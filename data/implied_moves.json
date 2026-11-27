@@ -5,7 +5,7 @@
     "strike": 131.0,
     "price": 130.93,
     "implied_move_pct": 15.81,
-    "atm_iv_pct": 126.4
+    "atm_iv_pct": 134.0
   },
   "MU": {
     "earnings_et": "2026-12-17 16:00",
@@ -13,6 +13,6 @@
     "strike": 600.0,
     "price": 601.25,
     "implied_move_pct": 19.62,
-    "atm_iv_pct": 98.3
+    "atm_iv_pct": 100.5
   }
 }
